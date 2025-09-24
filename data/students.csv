@@ -1,0 +1,6 @@
+﻿student_id,name,skills,location,education,category,past_internships
+1,Rohan Sharma,"Python,Data Analysis",Delhi,B.Tech CSE,General,0
+2,Priya Verma,"Java,Web Development",Mumbai,B.Sc. IT,OBC,1
+3,Amit Yadav,"Machine Learning,Python",Patna,B.Tech AI,SC,0
+4,Mahesh Chowdary,"Digital Marketing,SEO",Lucknow,MBA,General,2
+5,Rahul Das,"IoT,Embedded Systems",Kolkata,B.Tech ECE,SC,0
